@@ -69,7 +69,7 @@ A full-featured e-commerce platform for electronic components with:
 - Cloudinary image handling
 - Secure authentication
 
-🔗 Live: https://matrix360-iota.vercel.app
+🔗 Live: https://www.matrix360.com.ng
 
 ---
 
